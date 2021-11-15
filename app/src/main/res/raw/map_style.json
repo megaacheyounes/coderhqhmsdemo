@@ -1,0 +1,30 @@
+[
+  {
+    "mapFeature": "water",
+    "options": "geometry.fill",
+    "paint": {
+      "color": "#261579"
+    }
+  },
+  {
+    "mapFeature": "landcover",
+    "options": "geometry.fill",
+    "paint": {
+      "color": "#ff0000"
+    }
+  },
+  {
+    "mapFeature": "administrative.country",
+    "options": "labels.text.fill",
+    "paint": {
+      "color": "#fbff00"
+    }
+  },
+  {
+    "mapFeature": "road",
+    "options": "geometry.fill",
+    "paint": {
+      "color": "#00ffee"
+    }
+  }
+]
